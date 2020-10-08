@@ -18,7 +18,8 @@
         "sqlite3": "^5.0.0"
     },
     "devDependencies": {
-        "nodemon": "^2.0.4"
+        "nodemon": "^2.0.4",
+        "supertest": "^5.0.0"
     },
     "jest": {
         "testEnvironment": "node"
